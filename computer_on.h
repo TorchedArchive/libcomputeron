@@ -1,3 +1,3 @@
 int computer_on() {
-	return 0;
+	return 1;
 }
